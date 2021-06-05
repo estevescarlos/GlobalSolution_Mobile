@@ -1,0 +1,83 @@
+[
+    {
+      "id" : 1,
+      "nome" : "IBIS Styles São Paulo Anhembi",
+      "endereco" : "Av. Cruzeiro do Sul, no 1709, São Paulo, 02031-000",
+      "telefone" : "(11)3336-5400",
+      "imagem" : "https://i.ibb.co/N9rXPkF/ibis.jpg",
+      "valor" : "R$ 270,00",
+      "estrelas": "https://i.ibb.co/Xp4VRDq/5.png"
+    },
+    {
+      "id" : 2,
+      "nome" : "Confort Ibirapuera",
+      "endereco" : "Av. Sabiá, 825 Moema - São Paulo - SP",
+      "telefone" : "(11)4836-0369",
+      "imagem" : "https://i.ibb.co/syHJgRQ/comfort.webp",
+      "valor" : "R$ 287,00",
+      "estrelas": "https://i.ibb.co/Xp4VRDq/5.png"
+    },
+    {
+      "id" : 3,
+      "nome" : "Blue Tree Premium Morumbi",
+      "endereco" : "Av. Roque Petroni Júnior, 1000 Vila Gertrudes, São Paulo, SP, 04707-000",
+      "telefone" : "(11)2736-9360",
+      "imagem" : "https://i.ibb.co/QngKX77/blue-tree.jpg",
+      "valor" : "R$ 329,00",
+      "estrelas": "https://i.ibb.co/Xp4VRDq/5.png"
+    },
+    {
+      "id" : 4,
+      "nome" : "Mercure São Paulo Pamplona",
+      "endereco" : "Rua Pamplona, 1315, Jardim Paulista, SP, 01405002",
+      "telefone" : "(11)3690-9366",
+      "imagem" : "https://i.ibb.co/R7Cs4pY/mercure.jpg",
+      "valor" : "R$ 210,00",
+      "estrelas": "https://i.ibb.co/NTRj13q/4.png.png"
+    },
+    {
+      "id" : 5,
+      "nome" : "Sheraton São Paulo WTC Hotel",
+      "endereco" : "Av. Das Nações Unidas, 12559, Brooklin Novo, São Paulo, 04578-000",
+      "telefone" : "(11)95690-9366",
+      "imagem" : "https://i.ibb.co/g9CBkNX/Sheraton.jpg",
+      "valor" : "R$ 195,00",
+      "estrelas": "https://i.ibb.co/NTRj13q/4.png.png"
+    },
+    {
+      "id" : 6,
+      "nome" : "Bourbon Convention Ibirapuera",
+      "endereco" : "Avenida Ibirapuera, 2927, Moema, São Paulo, 04029-200",
+      "telefone" : "(11)2693-9000",
+      "imagem" : "https://i.ibb.co/72mHST1/Bourbon.jpg",
+      "valor" : "R$ 180,00",
+      "estrelas": "https://i.ibb.co/sCPPb1w/3.png"
+    },
+    {
+      "id" : 7,
+      "nome" : "Blue Tree Preimum Paulista",
+      "endereco" : "Rua Peixoto Gomide 707 Cerqueira Cesar, São Paulo, 01409-001",
+      "telefone" : "(11)7280-3669",
+      "imagem" : "https://i.ibb.co/c84p9Zr/BlueTree.jpg",
+      "valor" : "R$ 150,00",
+      "estrelas": "https://i.ibb.co/sCPPb1w/3.png"
+    },
+    {
+      "id" : 8,
+      "nome" : "Golden Tulip Paulista Plaza",
+      "endereco" : "Alameda Lorena, São Paulo, BR 01424-000",
+      "telefone" : "(11)2755-9390",
+      "imagem" : "https://i.ibb.co/YDgD7kX/Golden.jpg",
+      "valor" : "R$ 112,00",
+      "estrelas": "https://i.ibb.co/Wgny4cX/2.png"
+    },
+    {
+      "id" : 9,
+      "nome" : "Renaissance São Paulo Hotel",
+      "endereco" : "Alameda Santos, 2233, Jardim Paulista, São Paulo - SP, 01419-002",
+      "telefone" : "(11)2750-9936",
+      "imagem" : "https://i.ibb.co/Fmr9xGQ/Renaissance.jpg",
+      "valor" : "R$ 97,00",
+      "estrelas": "https://i.ibb.co/HFzWD68/1.png"
+    }
+]
