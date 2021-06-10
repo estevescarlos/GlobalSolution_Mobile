@@ -17,7 +17,7 @@ class Contato extends React.Component {
         <Text>E-mail:</Text>
         <TextInput style={ estilos.input } />
 
-        <Text>Mensagem:</Text>
+        <Text>Avaliação/Recomendação:</Text>
         <TextInput 
           multiline={ true } 
           textAlignVertical='top'

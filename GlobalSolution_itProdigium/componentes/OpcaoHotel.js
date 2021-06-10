@@ -54,13 +54,15 @@ const estilos = StyleSheet.create({
       borderRadius: 8
     },
     hotelImagem : {
-      height : 80,
-      marginRight : 6,
+      height : 110,
+      marginRight : 16,
       width : 100
     },
     hotelNome : {
-      fontSize : 18,
-      fontWeight : 'bold'
+      fontSize : 20,
+      fontWeight : 'bold',
+      paddingRight: 42,
+      marginRight: 48
     },
     hotelValor : {
       marginTop : 8,

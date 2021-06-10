@@ -1,6 +1,5 @@
 import React from 'react'
 import {
-  StyleSheet,
   Text,
   TouchableOpacity,
 } from 'react-native'
@@ -11,20 +10,13 @@ class BotaoMenu extends React.Component {
         return (
             <TouchableOpacity 
                 onPress={ this.props.pagina }
-                style={ this.props.estilo }>
-                <Text style={ estilos.menuLinkText }>
-                { this.props.texto || 'Texto default'}
+                style={ this.props.estiloTouch }>
+                <Text style={ this.props.estiloText }>
+                { this.props.texto || 'Texto padrão'}
                 </Text>
           </TouchableOpacity>
         )
     }
 }
-
-const estilos = StyleSheet.create({
-    menuLinkText : {
-        fontSize : 16,
-        fontWeight : 'bold'
-    }
-})
 
 export default BotaoMenu
